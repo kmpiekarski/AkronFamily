@@ -1,0 +1,27 @@
+/* CSS Document */
+#page_title {
+	background-repeat: no-repeat;
+	font-family: Helvetica;
+	font-size: 102px;
+	height: 0px;
+	letter-spacing: 7px;
+	margin: 0px auto;
+	overflow: visible;
+	position: absolute;
+	top: 126px;
+	width: 918px;
+	z-index: 110;
+}
+
+#access .menu-header ul,
+div.menu ul {
+	list-style: none;
+	margin: 0 auto;
+}
+#access .menu-header,
+div.menu {
+	text-transform:uppercase;
+	width: 440px;
+	text-align:center;
+	letter-spacing:2px;
+}
